@@ -106,6 +106,10 @@ If you use this dataset in your research, please cite the following papers:
 }
 ```
 
+## Acknowledgments
+
+We thank **Arthur Villordon at the LSU AgCenter Sweet Potato Research Station** for providing the sweetpotatoes samples. The authors also thank **Jiaxu Cai** and **Boyang Deng** for the curation of the Sweetpotatoes dataset. This research was supported by the **United States Department of Agriculture (USDA) Agricultural Marketing Service Specialty Crop Block Grant Program (G00006341)** and **Specialty Crop Multi-State Program (AM21SCMPMS1010)**.
+
 ## 📧 Contact
 For questions regarding the dataset, please contact:
 
